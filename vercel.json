@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://nieva.team/en/instructors/mnieva",
+      "permanent": true
+    }
+  ]
+}
