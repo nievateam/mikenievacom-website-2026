@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://nieva.team/en/instructors/mnieva",
+      "destination": "https://nieva.team/en/instructors/mikenieva",
       "permanent": true
     }
   ]
